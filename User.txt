@@ -1,0 +1,8 @@
+james java 9000
+dennis c 8000
+stroustrup cplusplus 8780
+rossum python 6770
+lerdorf php 1883
+eich js 19283
+matsumoto ruby 1828
+naseef not 10291
